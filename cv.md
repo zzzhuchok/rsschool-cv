@@ -3,14 +3,14 @@
 ## Contacts
 
 * **Location:** Mogilev, Belarus
-* **Phone:** +375 (29) xxx-xx-xx
+* **Phone:** +375 (29) 616-18-33
 * **Email:** zhuk.rostislav@gmail.com
 * **Telegram:** [zzzhuchok](https://t.me/zzzhuchok 't.me/zzzhuchok') 
 * **Github**: [zzzhuchok](https://github.com/zzzhuchok 'github.com/zzzhuchok')
 
 ## About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus in hac habitasse platea dictumst. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Lacinia at quis risus sed vulputate odio. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Cras pulvinar mattis nunc sed blandit libero volutpat sed cras. Faucibus nisl tincidunt eget nullam non. Cras semper auctor neque vitae tempus quam pellentesque nec nam.
+Ever since I was a student IT field has been my passion. I like to learn new things, tackle issues and collect puzzles. I am sure that front-end development is the right area to implement these tasks. I'm here because this direction discovers my new capabilities exactly that I am eager to learn more, to expand my horizons, show my creativity and  gain skills in related fields. My purpose is to improve my hard and soft skills and definitely bring them to entire life.
 
 ## Skills
 
@@ -49,5 +49,5 @@ function positiveSum(arr) {
 ## Langueges
 
 * **Russian:** Native
-* **English:** A2 
+* **English:** A1/A2 
 
