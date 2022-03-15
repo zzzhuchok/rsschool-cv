@@ -1,0 +1,11 @@
+.title {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+
+.title--blue {
+    color: #06c;
+}
+
+.title--yellow {
+    color: #ffcc00;
+}
