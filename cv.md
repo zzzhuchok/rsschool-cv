@@ -3,7 +3,7 @@
 ## Contacts
 
 * **Location:** Mogilev, Belarus
-* **Phone:** +375 (29) 616-18-33
+* **Phone:** +375 (29) ххх-хх-хх
 * **Email:** zhuk.rostislav@gmail.com
 * **Telegram:** [zzzhuchok](https://t.me/zzzhuchok 't.me/zzzhuchok') 
 * **Github**: [zzzhuchok](https://github.com/zzzhuchok 'github.com/zzzhuchok')
